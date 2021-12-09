@@ -1,5 +1,5 @@
 {
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"For watch And Download Movies/Tv Shows Please Update Your App
@@ -10,7 +10,7 @@
 <br></br>
 <br><b>Change logs</b></br>",  
 "update_build":"1",  
-"update_version":"1",  
+"update_version":"1.0",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"", 
