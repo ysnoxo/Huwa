@@ -1,5 +1,5 @@
 {
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"For watch And Download Movies/Tv Shows Please Update Your App
@@ -9,7 +9,7 @@
 <br>- Size: 17.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>",  
-"update_build":"1",  
+"update_build":"10000",  
 "update_version":"1.0",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
@@ -22,7 +22,7 @@
 "package_name_player":"com.polygon.videoplayer",
 "oneplayer_version_build":"3",
 "enable_force_player":false,
-"tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
+"tmdb_key":"c03f38429b0045deba32f73996233ecf",
 "site_cookie":"https://www7.123movies.ag, https://soap2day.to, https://www.watchepisodeseries1.com, https://ww3.series9.ac",
 "aparat_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBqd3BsYXllcigidnBsYXllciIpLmdldFBsYXlsaXN0SXRlbSgpLmZpbGU7CiAgICBpZihjb2RlICE9PSB1bmRlZmluZWQgJiYgY29kZSAhPT0gbnVsbCAmJiBjb2RlLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgxKTsKICAgICAgICB9CiAgICB9Cn0K",
 "upstream_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0VXBzdHJlYW0gPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGFVcHN0cmVhbSwgMzAwKTsKfQoKZ2V0RGF0YVVwc3RyZWFtID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBwbGF5ZXIuZ2V0UGxheWxpc3QoKVswXS5maWxlOwogICAgaWYoY29kZSAhPT0gdW5kZWZpbmVkICYmIGNvZGUgIT09IG51bGwgJiYgY29kZS5sZW5ndGggPiAwKXsKICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICBBbmRyb2lkLnJldHVybkxpbmsoY29kZSk7CiAgICB9ZWxzZXsKICAgICAgICBjb3VudCA9IGNvdW50ICsgMTsKICAgICAgICBpZihjb3VudCA9PSA2MCl7CiAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgICAgICBBbmRyb2lkLnRpbWVvdXQoMSk7CiAgICAgICAgfQogICAgfQp9Cg==",
